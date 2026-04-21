@@ -31,21 +31,6 @@ The **GitHub Profile Kit** is a curated toolkit of SVGs, animated widgets, and c
 
 We love seeing creative profile designs! If you've built an awesome SVG widget or a unique layout, please open a PR to add it to the gallery.
 
----
-
-## 🏢 About Stackaura
-
-The GitHub Profile Kit is designed and maintained by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on cutting-edge web design, premium branding, and scalable software architecture designed to elevate your personal brand and business alike. 
-
-**Ready to level up your digital presence?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -64,3 +49,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
